@@ -1,1 +1,2 @@
-# kube5
+# kubernetes5
+Kubernetes Playground
